@@ -24,6 +24,7 @@ Ireland
 
 Displays the Top 5 Customers based on sales volume, providing insights into key contributors to revenue.
 
+
 6. Product Filters
    
 Roast Type: Analyze sales across dark, medium, and large roast categories.
